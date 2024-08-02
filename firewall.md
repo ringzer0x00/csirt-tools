@@ -8,4 +8,12 @@ I Next Generation Firewall (NG-Firewall) sono dispositivi di sicurezza di rete a
 
 > keywords: `firewall`, `ips`, `filtering`
 
-[//]: cisco secure firewall, fortigate, Check Point Quantum
+* [Cisco Secure Firewall]
+* [Fortinet NGFW]
+* [Juniper SRX Series]
+* [CheckPoint Quantum Family]
+
+[Cisco Secure Firewall]: https://www.cisco.com/site/us/en/products/security/firewalls/index.html
+[Fortinet NGFW]: https://www.fortinet.com/products/next-generation-firewall
+[Juniper SRX Series]: https://www.juniper.net/us/en/products/security/srx-series.html
+[CheckPoint Quantum Family]: https://www.checkpoint.com/quantum/
