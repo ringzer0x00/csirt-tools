@@ -10,4 +10,13 @@ nav_order : 1
 
 > keywords: 
 
-[//]: # suricata,cisco,snort,cynet,paloalto,fortinet,sophos
+* [Cisco]
+* [Suricata] 
+* [Snort]
+
+> Consultare inoltre la sezione [Firewall] per strumenti che integrano ID/PS.
+
+[Cisco]: https://www.cisco.com/c/en_ca/products/security/ngips/index.html
+[Snort]: https://www.snort.org/
+[Suricata]: https://suricata.io/
+[Firewall]: ./firewall.html

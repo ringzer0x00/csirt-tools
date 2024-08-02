@@ -4,9 +4,12 @@ layout: default
 nav_order : 3
 ---
 
-* Data Visualization (dashboard, grafici)
-    * [Kibana] 
+| [Kibana] | `data visualization`, `dashboard`, `grafici` |
+| [MXToolBox]| `e-mail`, `phishing` |
+| [AbuseIPDB] | `ip`, `reputation`|
+| [Nagios] | `system`, `availability`, `monitoring`, `sla` |
 
 [Kibana]: https://www.elastic.co/kibana
-
-[//]: nmap, ip reputation, whois, email header analyzer
+[MXToolBox]: https://mxtoolbox.com/EmailHeaders.aspx
+[AbuseIPDB]: https://www.abuseipdb.com/
+[Nagios]: https://www.nagios.org/
