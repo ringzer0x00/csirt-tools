@@ -4,7 +4,7 @@ layout: home
 nav_order : 1
 ---
 
-Extended Detection and Response (XDR) è una soluzione che aggrega dati su minacce da vari strumenti in un'organizzazione per rendere più semplice e veloce un investigazione/risposta. Un XDR può potenzialmente raccogliere informazioni da qualunque prodotto ne possa produrre, quindi client mail, antivirus ecc.
+**Extended Detection and Response** (XDR) è una soluzione che aggrega dati su minacce da vari strumenti in un'organizzazione per rendere più semplice e veloce un investigazione/risposta. Un XDR può potenzialmente raccogliere informazioni da qualunque prodotto ne possa produrre, quindi client mail, antivirus ecc.
 
 Gartner definisce gli XDR come “unified security incident detection and response platform that automatically collects and correlates data from multiple proprietary security components.”
 
