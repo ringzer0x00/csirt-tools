@@ -8,7 +8,7 @@ nav_order : 1
 
 **IPS** (Intrusion Prevention System) è un'estensione dell'IDS che non solo rileva, ma anche previene attacchi intervenendo autonomamente. Un IPS può bloccare il traffico malevolo o interrompere connessioni sospette, proteggendo attivamente la rete o i sistemi dalle minacce rilevate.
 
-> keywords: 
+> keywords: `prevenzione`, `intrusioni`, `sicurezza`, `monitoraggio`, `analisi`, `minacce`, `blocchi`, `rete`, `protezione`, `attacchi`.
 
 * [Cisco]
 * [Suricata] 
